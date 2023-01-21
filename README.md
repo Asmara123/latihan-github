@@ -1,2 +1,2 @@
-# latihan-github
-Aplikasi E-Voting
+# Aplikasi E-Voting
+##Penggunaan
