@@ -5,4 +5,6 @@ RENCANA BELAJAR PEMROGRAMAN TAHUN 2023
     ^ Belajar Activity
     ^ Belajar View
     ^ Belajar HTTP REQUEST Dengan Retrofit
+    ^ Belajar Custome View
+    ^ Belajar Handler Pada Android Studio
 3. BELAJAR BAHASA KOTLIN
