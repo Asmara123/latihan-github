@@ -1,5 +1,8 @@
 RENCANA BELAJAR PEMROGRAMAN TAHUN 2023
 1. API DENGAN CODEIGNITER 4
 2. BELAJAR ANDROID
-   ^ Jet UI Compose
+    ^ Jet UI Compose
+    ^ Belajar Activity
+    ^ Belajar View
+    ^ Belajar HTTP REQUEST Dengan Retrofit
 3. BELAJAR BAHASA KOTLIN
